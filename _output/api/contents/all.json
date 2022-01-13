@@ -2,6 +2,18 @@
   "content": [
     {
       "content": null,
+      "created": "2022-01-13T22:09:39.088004Z",
+      "format": null,
+      "last_modified": "2021-10-25T21:30:01.693814Z",
+      "mimetype": null,
+      "name": "Assign_Groups - Copy.ipynb",
+      "path": "Assign_Groups - Copy.ipynb",
+      "size": 2316,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2022-01-13T21:48:22.117058Z",
       "format": null,
       "last_modified": "2021-10-25T21:30:01.693814Z",
@@ -27,7 +39,7 @@
   ],
   "created": "2022-01-13T21:48:22.113056Z",
   "format": "json",
-  "last_modified": "2022-01-13T21:48:22.121058Z",
+  "last_modified": "2022-01-13T22:09:39.088004Z",
   "mimetype": null,
   "name": "",
   "path": "",
