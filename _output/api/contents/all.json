@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-01-13T21:48:22.117058Z",
+      "format": null,
+      "last_modified": "2021-10-25T21:30:01.693814Z",
+      "mimetype": null,
+      "name": "Assign_Groups.ipynb",
+      "path": "Assign_Groups.ipynb",
+      "size": 2316,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-13T21:48:22.121058Z",
+      "format": null,
+      "last_modified": "2022-01-13T02:56:30.908478Z",
+      "mimetype": "application/vnd.ms-excel",
+      "name": "bill_authentication.csv",
+      "path": "bill_authentication.csv",
+      "size": 46442,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-01-13T21:48:22.113056Z",
+  "format": "json",
+  "last_modified": "2022-01-13T21:48:22.121058Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
