@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-22T20:13:05.984151Z",
+      "format": null,
+      "last_modified": "2022-07-22T02:04:10.823414Z",
+      "mimetype": null,
+      "name": "Assign_Groups.ipynb",
+      "path": "Assign_Groups.ipynb",
+      "size": 2425,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-22T20:13:05.988152Z",
+      "format": null,
+      "last_modified": "2022-07-22T20:11:18.905827Z",
+      "mimetype": null,
+      "name": "Lesson1- Variables and Calculations.ipynb",
+      "path": "Lesson1- Variables and Calculations.ipynb",
+      "size": 9113,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-22T20:13:05.980149Z",
+  "format": "json",
+  "last_modified": "2022-07-22T20:13:05.988152Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
