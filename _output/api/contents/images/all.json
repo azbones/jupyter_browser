@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-26T16:41:35.072062Z",
+      "format": null,
+      "last_modified": "2022-07-26T16:37:34.598449Z",
+      "mimetype": "image/png",
+      "name": "LogoCGUHS.png",
+      "path": "images/LogoCGUHS.png",
+      "size": 27190,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-26T16:41:35.069059Z",
+  "format": "json",
+  "last_modified": "2022-07-26T16:41:35.072062Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
